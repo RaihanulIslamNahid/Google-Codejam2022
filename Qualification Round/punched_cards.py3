@@ -1,4 +1,4 @@
-# Copyright (c) 2022 kamyu. All rights reserved.
+# Copyright (c) 2022 Raihan. All rights reserved.
 #
 # Google Code Jam 2022 Qualification Round - Problem A. Punched Cards
 # https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b
