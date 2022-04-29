@@ -25,5 +25,5 @@
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |A| [Double or One Thing](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000acd59d)| [C++](./Round%201A/double_or_one_thing.py3)| _O(\|S\|)_ | _O(1)_ | Easy | | String |
-|B| [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000accfdb)| [C++](./Round%201A/equal_sum.py3) [C++](./Round%201A/equal_sum2.py3) | _O(N)_ | _O(1)_ | Medium | | Math, Constructive Algorithms |
-|C| [Weightlifting](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000acd29b)| [Python3](./Round%201A/weightlifting.py3)| _O(E^2 * W + E^3)_ | _O(E^2 + W)_ | Hard | | DP |
+|B| [Equal Sum](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000accfdb)| [C++](./Round%201A/equal_sum.py3) [](./Round%201A/equal_sum2.py3) | _O(N)_ | _O(1)_ | Medium | | Math, Constructive Algorithms |
+|C| [Weightlifting](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b/0000000000acd29b)| [C++](./Round%201A/weightlifting.py3)| _O(E^2 * W + E^3)_ | _O(E^2 + W)_ | Hard | | DP |
