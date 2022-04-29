@@ -1,4 +1,4 @@
-# Copyright (c) 2022 kamyu. All rights reserved.
+# Copyright (c) 2022 Raihan. All rights reserved.
 #
 # Google Code Jam 2022 Round 1A - Problem B. Equal Sum
 # https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1
